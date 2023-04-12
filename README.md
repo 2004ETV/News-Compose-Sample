@@ -31,28 +31,32 @@
 | <img src="assets/share_framed.jpg" height="400"> |
 
 ## Topics
+
 * DI
-  - Dagger 2
+    - Dagger 2
 * Navigation
-  - Compose Destinations
+    - Compose Destinations
 * Architecture
-  - Clean architecture
+    - Clean architecture
 * Network
-  - Retrofit
-  - Moshi
-  - OkHttp
+    - Retrofit
+    - Moshi
+    - OkHttp
 * Paging
-  - Paging 3
+    - Paging 3
 * Theming
-  - Dark/Light themes
+    - Dark/Light themes
 * Multi-module
 * Compose Based UI
 * Gradle configuration
 
 ## How to run
-* Add `apiKey=<YourKey>` in `local.properties` file, for example `apiKey=72288ebc5b893cc92a76c701c6b700b6`
+
+* Add `apiKey=<YourKey>` in `local.properties` file, for
+  example `apiKey=72288ebc5b893cc92a76c701c6b700b6`
 * Run -> Run `app`
 
 ## I'm on social media
+
 * [VK](https://vk.com/ndynagn)
 * [Telegram](https://t.me/gen_aa)
