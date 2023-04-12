@@ -4,31 +4,31 @@
 
 ### Main screens
 
-|Headlines                     |Search                       |
-|:----------------------------:|:---------------------------:|
-|<img src="assets/headlines_dark_framed.jpg" height="400">|<img src="assets/search_dark_framed.jpg" height="400">|
+|                         Headlines                         |                         Search                         |
+|:---------------------------------------------------------:|:------------------------------------------------------:|
+| <img src="assets/headlines_dark_framed.jpg" height="400"> | <img src="assets/search_dark_framed.jpg" height="400"> |
 
-|Headlines                     |
-|:----------------------------:|
-|<img src="assets/article_details_dark_framed.jpg" height="400">|
+|                         Article details                         |
+|:---------------------------------------------------------------:|
+| <img src="assets/article_details_dark_framed.jpg" height="400"> |
 
 ### Theming
 
-|Headlines (Dark)              |Headlines (Light)            |
-|:----------------------------:|:---------------------------:|
-|<img src="assets/headlines_dark_framed.jpg" height="400">|<img src="assets/headlines_light_framed.jpg" height="400">|
+|                     Headlines (Dark)                      |                     Headlines (Light)                      |
+|:---------------------------------------------------------:|:----------------------------------------------------------:|
+| <img src="assets/headlines_dark_framed.jpg" height="400"> | <img src="assets/headlines_light_framed.jpg" height="400"> |
 
-|Search (Dark)                 |Search (Light)               |
-|:----------------------------:|:---------------------------:|
-|<img src="assets/search_dark_framed.jpg" height="400">|<img src="assets/search_light_framed.jpg" height="400">|
+|                     Search (Dark)                      |                     Search (Light)                      |
+|:------------------------------------------------------:|:-------------------------------------------------------:|
+| <img src="assets/search_dark_framed.jpg" height="400"> | <img src="assets/search_light_framed.jpg" height="400"> |
 
-|Article details (Dark)        |Article details (Light)      |
-|:----------------------------:|:---------------------------:|
-|<img src="assets/article_details_dark_framed.jpg" height="400">|<img src="assets/article_details_light_framed.jpg" height="400">|
+|                     Article details (Dark)                      |                     Article details (Light)                      |
+|:---------------------------------------------------------------:|:----------------------------------------------------------------:|
+| <img src="assets/article_details_dark_framed.jpg" height="400"> | <img src="assets/article_details_light_framed.jpg" height="400"> |
 
-|Forwarding an article         |
-|:----------------------------:|
-|<img src="assets/share_framed.jpg" height="400">|
+|              Forwarding an article               |
+|:------------------------------------------------:|
+| <img src="assets/share_framed.jpg" height="400"> |
 
 ## Topics
 * DI
@@ -38,7 +38,7 @@
 * Architecture
   - Clean architecture
 * Network
-  - Retorifit
+  - Retrofit
   - Moshi
   - OkHttp
 * Paging
