@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_content">No content provided</string>
+    <string name="no_description">No description provided</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="back_nav_icon" translatable="false">Navigate back icon</string>
+    <string name="no_author">No author provided</string>
+    <string name="floating_action_button" translatable="false">Floating action button</string>
+    <string name="published">Published %1$s</string>
+    <string name="publication">Publication</string>
+    <string name="share_the_news">Share the news</string>
+</resources>

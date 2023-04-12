@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="retry">Retry</string>
+    <string name="news">News</string>
+    <string name="search">Search</string>
+</resources>

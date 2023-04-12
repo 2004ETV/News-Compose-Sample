@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">News-Compose</string>
+    <string name="bottom_navigation_icon" translatable="false">Bottom navigation icon</string>
+    <string name="window_exception" translatable="false">Not in an activity - unable to get Window reference</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_content">Контент отсутствует</string>
+    <string name="no_description">Описание отсутствует</string>
+    <string name="open_in_browser">Открыть в браузере</string>
+    <string name="no_author">Автор отсутствует</string>
+    <string name="published">Опубликовано %1$s</string>
+    <string name="publication">Издание</string>
+    <string name="share_the_news">Поделиться новостью</string>
+</resources>

@@ -1,0 +1,23 @@
+*.dex
+bin/
+gen/
+infer-out/
+captures/
+local.properties
+gradlew
+gradlew.bat
+Thumbs.db
+.idea
+/build
+.gradle
+/out
+*/build
+*/production
+*.iws
+*.ipr
+*~
+*.swp
+*.iml
+# Project exclude paths
+/build-src/convention/build/
+/build-src/convention/build/classes/kotlin/main/

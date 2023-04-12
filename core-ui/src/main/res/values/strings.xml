@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="retry">Retry</string>
+    <string name="article_image" translatable="false">Article main image</string>
+    <string name="error_image" translatable="false">Error image</string>
+    <string name="delimiter_icon" translatable="false">Date and source delimiter</string>
+    <string name="news">News</string>
+    <string name="search">Search</string>
+</resources>
