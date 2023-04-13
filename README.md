@@ -26,7 +26,9 @@
 |:---------------------------------------------------------------:|:----------------------------------------------------------------:|
 | <img src="assets/article_details_dark_framed.jpg" height="400"> | <img src="assets/article_details_light_framed.jpg" height="400"> |
 
-|              Forwarding an article               |
+### Forwarding an article
+
+|       Share sheet with a link to the news        |
 |:------------------------------------------------:|
 | <img src="assets/share_framed.jpg" height="400"> |
 

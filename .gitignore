@@ -18,6 +18,3 @@ Thumbs.db
 *~
 *.swp
 *.iml
-# Project exclude paths
-/build-src/convention/build/
-/build-src/convention/build/classes/kotlin/main/
