@@ -100,6 +100,7 @@ timber = { group = "com.jakewharton.timber", name = "timber", version.ref = "tim
 
 byteBuddy = { module = "net.bytebuddy:byte-buddy", version.ref = "byteBuddy" }
 byteBuddyAndroid = { module = "net.bytebuddy:byte-buddy-android", version.ref = "byteBuddy" }
+
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espresso-core" }
 appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
