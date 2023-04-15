@@ -30,6 +30,7 @@ class BuildConfigPlugin : Plugin<Project> {
     }
 
     private fun BaseExtension.applyAndroidSettings(project: Project) {
+        buildFeatures.buildConfig = true
         compileSdkVersion(project.ANDROID_COMPILE_SDK_VERSION)
         defaultConfig {
             minSdk = project.ANDROID_MIN_SDK_VERSION

@@ -30,6 +30,7 @@ class ComposeModulePlugin : Plugin<Project> {
         val libs = project.extensions.getByType<VersionCatalogsExtension>().named("libs")
 
         buildFeatures.compose = true
+
         composeOptions.kotlinCompilerExtensionVersion =
             libs.findVersion("compose_compiler").get().toString()
 
