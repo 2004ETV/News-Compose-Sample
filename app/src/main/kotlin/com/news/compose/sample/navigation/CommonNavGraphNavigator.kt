@@ -9,6 +9,7 @@ import com.news.compose.sample.navigation.models.mappers.asArticle
 import com.news.compose.search.presentation.SearchScreenNavigation
 import com.news.compose.search.presentation.models.SearchItemNavArg
 import com.ramcosta.composedestinations.dynamic.within
+import com.ramcosta.composedestinations.navigation.navigate
 import com.ramcosta.composedestinations.spec.NavGraphSpec
 
 class CommonNavGraphNavigator(
