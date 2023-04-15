@@ -69,17 +69,17 @@ val Typography = Typography(
         lineHeight = 18.sp,
         letterSpacing = (-0.33).sp
     ),
-    bodySmall = TextStyle(
-        fontFamily = Onest,
-        fontWeight = FontWeight.Medium,
-        fontSize = 12.sp,
-        lineHeight = 18.sp,
-        letterSpacing = (-0.33).sp
-    ),
     bodyMedium = TextStyle(
         fontFamily = Onest,
         fontWeight = FontWeight.Normal,
         fontSize = 14.sp,
+        lineHeight = 18.sp,
+        letterSpacing = (-0.33).sp
+    ),
+    bodySmall = TextStyle(
+        fontFamily = Onest,
+        fontWeight = FontWeight.Medium,
+        fontSize = 12.sp,
         lineHeight = 18.sp,
         letterSpacing = (-0.33).sp
     ),
