@@ -11,7 +11,7 @@ splashscreen = "1.0.0"
 activity = "1.7.0"
 lifecycle = "2.6.1"
 compose = "1.5.0-alpha02"
-compose_compiler = "1.4.4"
+compose_compiler = "1.4.5"
 material3 = "1.1.0-beta02"
 destinations = "1.8.38-beta"
 accompanist = "0.30.1"
@@ -28,7 +28,7 @@ okhttp = "5.0.0-alpha.3"
 timber = "5.0.1"
 byteBuddy = "1.14.2"
 junit = "4.13.2"
-androidx-test-ext-junit = "1.1.5"
+test-ext-junit = "1.1.5"
 espresso-core = "3.5.1"
 appcompat = "1.6.1"
 material = "1.8.0"
@@ -61,6 +61,8 @@ androidx-compose-tooling-preview = { group = "androidx.compose.ui", name = "ui-t
 
 androidx-paging-compose = { group = "androidx.paging", name = "paging-compose", version.ref = "paging-compose" }
 androidx-paging-runtime-ktx = { group = "androidx.paging", name = "paging-runtime-ktx", version.ref = "paging" }
+
+androidx-test-ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "test-ext-junit" }
 
 compose-test = { module = "androidx.compose.ui:ui-test-junit4", version.ref = "compose" }
 compose-test-manifest = { module = "androidx.compose.ui:ui-test-manifest", version.ref = "compose" }
@@ -99,7 +101,6 @@ timber = { group = "com.jakewharton.timber", name = "timber", version.ref = "tim
 byteBuddy = { module = "net.bytebuddy:byte-buddy", version.ref = "byteBuddy" }
 byteBuddyAndroid = { module = "net.bytebuddy:byte-buddy-android", version.ref = "byteBuddy" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
-androidx-test-ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "androidx-test-ext-junit" }
 espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espresso-core" }
 appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
