@@ -68,6 +68,7 @@ class ComposeModulePlugin : Plugin<Project> {
             is LibraryExtension -> libraryVariants.all {
                 kotlin.sourceSets.getByName(name).kotlin.srcDir("build/generated/ksp/$name/kotlin")
             }
+
             is AppExtension -> applicationVariants.all {
                 kotlin.sourceSets.getByName(name).kotlin.srcDir("build/generated/ksp/$name/kotlin")
             }
