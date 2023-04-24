@@ -3,6 +3,7 @@ package com.news.compose.convention.plugins
 import com.android.build.gradle.AppExtension
 import com.android.build.gradle.BaseExtension
 import com.android.build.gradle.LibraryExtension
+import com.google.devtools.ksp.gradle.KspExtension
 import org.gradle.api.Plugin
 import org.gradle.api.Project
 import org.gradle.api.artifacts.VersionCatalogsExtension
@@ -61,7 +62,7 @@ class ComposeModulePlugin : Plugin<Project> {
     private fun BaseExtension.applyNavigation(project: Project) {
         val libs = project.extensions.getByType<VersionCatalogsExtension>().named("libs")
         val kotlin = project.extensions.getByName("kotlin") as KotlinAndroidProjectExtension
-        val ksp = project.extensions.getByName("ksp") as com.google.devtools.ksp.gradle.KspExtension
+        val ksp = project.extensions.getByName("ksp") as KspExtension
         when (this) {
             is LibraryExtension -> libraryVariants.all {
                 kotlin.sourceSets.getByName(name).kotlin.srcDir("build/generated/ksp/$name/kotlin")
