@@ -32,7 +32,7 @@ class ComposeModulePlugin : Plugin<Project> {
         buildFeatures.compose = true
 
         composeOptions.kotlinCompilerExtensionVersion =
-            libs.findVersion("compose_compiler").get().toString()
+            libs.findVersion("compose-compiler").get().toString()
 
         project.dependencies {
             add("implementation", libs.findLibrary("androidx-core-ktx").get())
