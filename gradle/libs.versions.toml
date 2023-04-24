@@ -7,12 +7,12 @@ coroutines = "1.6.4"
 ksp = "1.8.20-1.0.10"
 agp = "8.0.0"
 core = "1.10.0"
-splashscreen = "1.0.0"
-activity = "1.7.0"
+splashscreen = "1.0.1"
+activity = "1.7.1"
 lifecycle = "2.6.1"
-compose = "1.5.0-alpha02"
+compose = "1.5.0-alpha03"
 compose_compiler = "1.4.5"
-material3 = "1.1.0-beta02"
+material3 = "1.1.0-rc01"
 destinations = "1.9.39-beta"
 accompanist = "0.31.0-alpha"
 dagger2 = "2.45"
@@ -69,9 +69,7 @@ compose-test-manifest = { module = "androidx.compose.ui:ui-test-manifest", versi
 
 accompanist-switerefreshlayout = { group = "com.google.accompanist", name = "accompanist-swiperefresh", version.ref = "accompanist" }
 accompanist-systemuicontroller = { group = "com.google.accompanist", name = "accompanist-systemuicontroller", version.ref = "accompanist" }
-accompanist-placeholder = { group = "com.google.accompanist", name = "accompanist-placeholder", version.ref = "accompanist" }
 accompanist-placeholder-material = { group = "com.google.accompanist", name = "accompanist-placeholder-material", version.ref = "accompanist" }
-accompanist-navigation-material = { group = "com.google.accompanist", name = "accompanist-navigation-material", version.ref = "accompanist" }
 
 compose-destinations = { group = "io.github.raamcosta.compose-destinations", name = "core", version.ref = "destinations" }
 compose-destinations-compiler = { group = "io.github.raamcosta.compose-destinations", name = "ksp", version.ref = "destinations" }

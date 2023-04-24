@@ -52,8 +52,6 @@ class ComposeModulePlugin : Plugin<Project> {
 
             add("implementation", libs.findLibrary("accompanist-switerefreshlayout").get())
             add("implementation", libs.findLibrary("accompanist-systemuicontroller").get())
-            add("implementation", libs.findLibrary("accompanist-navigation-material").get())
-            add("implementation", libs.findLibrary("accompanist-placeholder").get())
             add("implementation", libs.findLibrary("accompanist-placeholder-material").get())
 
             add("implementation", libs.findLibrary("coil-compose").get())
